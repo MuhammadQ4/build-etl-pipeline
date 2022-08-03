@@ -1,0 +1,10 @@
+build_etl_pipeline_discussion.ipynb
+redshift_config.yaml
+redshift.ipynb
+sample_data.csv
+sample_db.sql
+sql_installation_script_all_queries.sql
+screenshots
+load_data_to_db.py
+read_sample_data.py
+mrtssales_ddl.sql
